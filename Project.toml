@@ -1,0 +1,4 @@
+name = "Fractals"
+uuid = "61d8df16-1d57-4e29-8860-82c4c6292f65"
+authors = ["Adrian Berges Enfedaque <aberges@gradiant.org>"]
+version = "0.1.0"
